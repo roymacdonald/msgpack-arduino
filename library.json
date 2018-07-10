@@ -1,8 +1,0 @@
-{
-    "name" : "msgpack-arduino",
-    "build" : {
-        "srcFilter" : [
-            "+<msgpack/*.cpp>"
-        ]
-    }   
-}
